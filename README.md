@@ -32,9 +32,9 @@ Users may unknowingly give away credentials.
 
 ## 🖼️ Screenshot
 
-![Phishing Email](https://github.com/Yoggys-Graph/SIEM-Dashboard/blob/main/assets/Cybersecurity-Projects-5.png)
+![Analyse Phishing Email](https://github.com/Yoggys-Graph/SIEM-Dashboard/blob/main/assets/Cybersecurity-Projects-5.png)
 
 ![Phishing Email](https://github.com/Yoggys-Graph/SIEM-Dashboard/blob/main/assets/Cybersecurity-Projects-6.png)
 
-![Phishing Email](https://github.com/Yoggys-Graph/SIEM-Dashboard/blob/main/assets/Cybersecurity-Projects-5.png)
+![Phishing Email Slides](https://docs.google.com/presentation/d/15oE-s4klp__V-kGTKpeuAPpNSyWIsHjRESONvX6ZXHM/edit?usp=drivesdk)
 
