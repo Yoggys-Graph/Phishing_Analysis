@@ -38,3 +38,6 @@ Users may unknowingly give away credentials.
 
 ![Phishing Email Slides](https://docs.google.com/presentation/d/1GrDQo78b5a6HZN3dMhCGswcOjIeuHNaW2Vu-Xjc5fBw/edit?usp=drivesdk)
 
+Or:
+
+![Phishing Email Slides](https://docs.google.com/presentation/d/1GrDQo78b5a6HZN3dMhCGswcOjIeuHNaW2Vu-Xjc5fBw/edit?usp=drivesdk)
