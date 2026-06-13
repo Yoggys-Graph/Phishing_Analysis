@@ -30,16 +30,16 @@ Users may unknowingly give away credentials.
 
 ---
 
-## 🖼️ Screenshot
+## 🖼️ Screenshot and 🧩 Document
 
-![Analyse Phishing Email](https://github.com/Yoggys-Graph/SIEM-Dashboard/blob/main/assets/Cybersecurity-Projects-5.png)
+🖼️![Analyse Phishing Email](https://github.com/Yoggys-Graph/SIEM-Dashboard/blob/main/assets/Cybersecurity-Projects-5.png)
 
-![Phishing Email](https://github.com/Yoggys-Graph/SIEM-Dashboard/blob/main/assets/Cybersecurity-Projects-6.png)
+🖼️![Phishing Email](https://github.com/Yoggys-Graph/SIEM-Dashboard/blob/main/assets/Cybersecurity-Projects-6.png)
 
-👉 [View Project slides](https://docs.google.com/presentation/d/1GrDQo78b5a6HZN3dMhCGswcOjIeuHNaW2Vu-Xjc5fBw/edit?usp=drivesdk)
+🧩 [View Project slides](https://docs.google.com/presentation/d/1GrDQo78b5a6HZN3dMhCGswcOjIeuHNaW2Vu-Xjc5fBw/edit?usp=drivesdk)
 
 Or:
 
-👉 [View Project pdf](https://drive.google.com/file/d/1G2__BPOmJtruAtQ2xdHLc1PnwvUvP-0G/view?usp=drivesdk)
+🧩 [View Project pdf](https://drive.google.com/file/d/1G2__BPOmJtruAtQ2xdHLc1PnwvUvP-0G/view?usp=drivesdk)
 
 
