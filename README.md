@@ -40,4 +40,4 @@ Users may unknowingly give away credentials.
 
 Or:
 
-![Phishing Email Slides](https://docs.google.com/presentation/d/1GrDQo78b5a6HZN3dMhCGswcOjIeuHNaW2Vu-Xjc5fBw/edit?usp=drivesdk)
+![Phishing Email PDF](https://drive.google.com/file/d/1G2__BPOmJtruAtQ2xdHLc1PnwvUvP-0G/view?usp=drivesdk)
