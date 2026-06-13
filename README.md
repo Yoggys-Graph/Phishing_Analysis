@@ -36,8 +36,12 @@ Users may unknowingly give away credentials.
 
 ![Phishing Email](https://github.com/Yoggys-Graph/SIEM-Dashboard/blob/main/assets/Cybersecurity-Projects-6.png)
 
-![Phishing Email Slides](https://docs.google.com/presentation/d/1GrDQo78b5a6HZN3dMhCGswcOjIeuHNaW2Vu-Xjc5fBw/edit?usp=drivesdk)
+👉 [View Project]()
+
+![Phishing Email Slides]()
 
 Or:
 
-![Phishing Email PDF](https://drive.google.com/file/d/1G2__BPOmJtruAtQ2xdHLc1PnwvUvP-0G/view?usp=drivesdk)
+👉 [View Project](https://drive.google.com/file/d/1G2__BPOmJtruAtQ2xdHLc1PnwvUvP-0G/view?usp=drivesdk)
+
+
