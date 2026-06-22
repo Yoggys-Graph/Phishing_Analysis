@@ -1,6 +1,6 @@
-# 🎣 Phishing Analysis
+# 🎣 Phishing Email Analysis
 
-Email phishing project
+Phishing email project
 
 ## 📌 Objective
 To analyze phishing email techniques. And used the analysis to provide slides used to educate the employee to better prepare for future threats.
